@@ -318,7 +318,7 @@ h5, h4, h6{
     margin: auto;
 }
 .intro-img{
-    content: url(assets/mobile.version-img/Rectangle\ 3.png);
+    content: url(../mobile.version-img/Rectangle\ 3.png);
     max-width: 335px;
     width: 100%;
     margin-top: -50px;
@@ -340,16 +340,16 @@ h1{
 
 }
 .mini-img1{
-    content: url(assets/mobile.version-img/Rectangle\ 97.png);
+    content: url(../mobile.version-img/Rectangle\ 97.png);
 }
 .mini-img2{
-    content: url(assets/mobile.version-img/Rectangle\ 98.png);
+    content: url(../mobile.version-img/Rectangle\ 98.png);
 }
 .mini-img3{
-    content: url(assets/mobile.version-img/Rectangle\ 99.png);
+    content: url(../mobile.version-img/Rectangle\ 99.png);
 }
 .mini-img4{
-    content: url(assets/mobile.version-img/Rectangle\ 100.png);
+    content: url(../mobile.version-img/Rectangle\ 100.png);
 }
 .mini-img5{
     display: none;
